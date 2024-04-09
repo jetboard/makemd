@@ -18,7 +18,7 @@
         "@types/he": "^1.2.0",
         "@types/lodash": "^4.14.191",
         "@types/node": "^14.14.37",
-        "@types/react": "17.0.2",
+        "@types/react": "17.0.79",
         "@types/react-color": "^3.0.6",
         "@types/react-dom": "^18.0.8",
         "@types/react-tag-autocomplete": "^6.3.0",
