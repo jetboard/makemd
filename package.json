@@ -55,7 +55,7 @@
         "@lezer/common": "^1.0.1",
         "@preact/compat": "^17.1.2",
         "@tanstack/react-table": "^8.7.4",
-        "@tanstack/react-virtual": "^3.0.0-alpha.0",
+        "@tanstack/react-virtual": "^3.2.0",
         "acorn": "^8.8.2",
         "acorn-walk": "^8.2.0",
         "astring": "^1.8.4",
